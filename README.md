@@ -1,4 +1,4 @@
-# YouMp3
+# YouMP3: YouTube to MP3 
 
 A simple, clean, and effective open source desktop application to help you download .mp3 files for any video on YouTube. No need to use websites that constantly spam you with endless popup ads and viruses. 
 
